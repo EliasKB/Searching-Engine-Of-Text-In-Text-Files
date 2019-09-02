@@ -1,0 +1,3 @@
+# Searching Engine Of Text In Text Files
+## Fist we assume that frequency of input word in a text file in not taken into account. 
+### .....
