@@ -1,4 +1,4 @@
-# Searching Engine Of Text In Text Files
+# Searching Engine Of A Text In Text Files
 ## We assume that frequency of input word in a text file in not taken into account. 
 ### Suppose you have some textfiles in you folder and want to search whether a specific word or a sentence exist in the files or not. 
 This engine searcher will help you to find how many percent of the input words exists in each file. 
